@@ -1,0 +1,18 @@
+{
+  "product": "PromptBuilder",
+  "version": "2.8.0",
+  "channel": "stable",
+  "tag": "v2.8.0",
+  "published": "2026-11-03",
+  "notes": {
+    "en": "Settings with tabs and Online AI (ChatGPT, Mistral, Claude, Gemini) with connection test, template packs without a new version, Linux server in practice pack with 14 templates.",
+    "nl": "Instellingen met tabbladen en Online AI (ChatGPT, Mistral, Claude, Gemini) met verbindingstest, sjabloonpakketten zonder nieuwe versie, pakket Linux-server in de praktijk met 14 sjablonen."
+  },
+  "installer": {
+    "filename": "PromptBuilderSetup_2.8.0.exe",
+    "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.8.0/PromptBuilderSetup_2.8.0.exe",
+    "sha256": "837aedbd2600d948f2976f5b21182836c864772804ba765aca3bd401fbb02e13"
+  },
+  "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.8.0/PromptBuilderSetup_2.8.0.exe",
+  "sha256": "837aedbd2600d948f2976f5b21182836c864772804ba765aca3bd401fbb02e13"
+}
