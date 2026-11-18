@@ -1,18 +1,18 @@
 {
   "product": "PromptBuilder",
-  "version": "2.8.0",
+  "version": "2.9.0",
   "channel": "stable",
-  "tag": "v2.8.0",
-  "published": "2026-11-03",
+  "tag": "v2.9.0",
+  "published": "2026-11-18",
   "notes": {
-    "en": "Settings with tabs and Online AI (ChatGPT, Mistral, Claude, Gemini) with connection test, template packs without a new version, Linux server in practice pack with 14 templates.",
-    "nl": "Instellingen met tabbladen en Online AI (ChatGPT, Mistral, Claude, Gemini) met verbindingstest, sjabloonpakketten zonder nieuwe versie, pakket Linux-server in de praktijk met 14 sjablonen."
+    "nl": "Nieuwe rubriek Programma maken met zes expliciete sjablonen: Python, PowerShell, Rust, C#, JavaScript/TypeScript en een vrije taalkeuze. Boven de specialistische rubrieken, standaard uitgeklapt. Tien invoervelden voor concrete complete basisprojecten. Help bijgewerkt in Nederlands en Engels.",
+    "en": "New Create a program category with six explicit templates: Python, PowerShell, Rust, C#, JavaScript/TypeScript and another language. Shown above specialist categories and expanded by default. Ten fields describing complete starter projects. Updated Dutch and English help."
   },
   "installer": {
-    "filename": "PromptBuilderSetup_2.8.0.exe",
-    "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.8.0/PromptBuilderSetup_2.8.0.exe",
-    "sha256": "837aedbd2600d948f2976f5b21182836c864772804ba765aca3bd401fbb02e13"
+    "filename": "PromptBuilderSetup_2.9.0.exe",
+    "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.9.0/PromptBuilderSetup_2.9.0.exe",
+    "sha256": "d9401ecfbcf6fff44ef370c9c847390398225984d297043e97793facd47a81aa"
   },
-  "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.8.0/PromptBuilderSetup_2.8.0.exe",
-  "sha256": "837aedbd2600d948f2976f5b21182836c864772804ba765aca3bd401fbb02e13"
+  "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.9.0/PromptBuilderSetup_2.9.0.exe",
+  "sha256": "d9401ecfbcf6fff44ef370c9c847390398225984d297043e97793facd47a81aa"
 }
