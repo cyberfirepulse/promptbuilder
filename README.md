@@ -5,13 +5,21 @@ Desktop tool for Windows to design, reuse and send high-quality AI prompts, made
 ## Features
 
 - Build prompts from clear parts: role, task, audience, style, constraints, examples and output format
-- 27 ready-made templates in six categories, in English and Dutch
+- Ready-made templates organised by topic, in English and Dutch
 - Save your own templates
 - Network / Cisco form that turns your requirements into a prompt
 - SOC and Elastic form for monitor scripts and dashboards
 - Prompt check and an explanation of every part while you work
 - Send to Ollama, LM Studio or any OpenAI-compatible service
 - Your data stays on your computer, in the `data` folder next to the program
+
+## Create a program / Programma maken
+
+Version 2.9.0 adds a visible **Templates > Create a program** category for Python, PowerShell, Rust, C#, JavaScript/TypeScript and another language. Fill in goal, platform, application type, input/output and features. Prompts request complete source files, project structure, dependencies, error handling and setup/start instructions. Your selected AI generates the code; Prompt Builder does not run it automatically.
+
+Versie 2.9.0 voegt **Sjablonen > Programma maken** toe, met expliciete sjablonen per programmeertaal. Vul het doel, platform, type programma, invoer/uitvoer en de functies in. De prompt vraagt om volledige bronbestanden, projectstructuur, afhankelijkheden, foutafhandeling en installatie- en startinstructies. Je gekozen AI maakt de code; Prompt Builder voert deze niet automatisch uit.
+
+The separate `programma-maken.pbpack.json` can also be imported into an existing version supporting template packs. Het losse pakket kan ook worden geïmporteerd in een bestaande versie met pakketondersteuning.
 
 ## Download
 
