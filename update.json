@@ -1,19 +1,18 @@
 {
   "product": "PromptBuilder",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "channel": "stable",
-  "tag": "v2.9.0",
-  "published": "2026-11-18",
+  "tag": "v2.9.1",
+  "published": "2026-11-19",
   "notes": {
-    "nl": "Nieuwe rubriek Programma maken met zes expliciete sjablonen: Python, PowerShell, Rust, C#, JavaScript/TypeScript en een vrije taalkeuze. Boven de specialistische rubrieken, standaard uitgeklapt. Tien invoervelden voor concrete complete basisprojecten. Help bijgewerkt in Nederlands en Engels.",
-    "en": "New Create a program category with six explicit templates: Python, PowerShell, Rust, C#, JavaScript/TypeScript and another language. Shown above specialist categories and expanded by default. Ten fields describing complete starter projects. Updated Dutch and English help."
+    "nl": "Herstel van updates tussen de mappen Prompt Builder en PromptBuilder. Bestaande activatie en installatienummer worden als paar behouden; ontbrekende instellingen, werk en eigen sjablonen worden meegenomen. Bestaande doelgegevens worden niet overschreven. Eerdere installatiemap krijgt voorrang wanneer aanwezig.",
+    "en": "Fix upgrades between Prompt Builder and PromptBuilder folders. Existing activation and installation identity are preserved together; missing settings, work and user templates are retained without overwriting destination data. Existing installation folders are preferred."
   },
   "installer": {
-    "filename": "PromptBuilderSetup_2.9.0.exe",
-    "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.9.0/PromptBuilderSetup_2.9.0.exe",
-    "sha256": "d9401ecfbcf6fff44ef370c9c847390398225984d297043e97793facd47a81aa"
+    "filename": "PromptBuilderSetup_2.9.1.exe",
+    "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.9.1/PromptBuilderSetup_2.9.1.exe",
+    "sha256": "3b545c09170e4accc6aa4616c842fa5dc79ccec6086366f8c4a07fe8990fb3a5"
   },
-  "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.9.0/PromptBuilderSetup_2.9.0.exe",
-  "sha256": "d9401ecfbcf6fff44ef370c9c847390398225984d297043e97793facd47a81aa"
+  "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.9.1/PromptBuilderSetup_2.9.1.exe",
+  "sha256": "3b545c09170e4accc6aa4616c842fa5dc79ccec6086366f8c4a07fe8990fb3a5"
 }
-
